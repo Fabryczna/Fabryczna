@@ -17,7 +17,7 @@ export default function Hero() {
       <div
         className="absolute inset-0 bg-cover bg-center bg-no-repeat"
         style={{
-          backgroundImage: 'url(/assets/hero-cafe-interior.jpg)',
+          backgroundImage: 'url(/assets/Hero /images/HeroBanner.jpg)',
         }}
       >
         <div className="absolute inset-0 bg-black/50" />
@@ -25,7 +25,7 @@ export default function Hero() {
 
       <div className="relative z-10 text-center text-white px-4 max-w-4xl mx-auto">
         <img
-          src="/assets/logo-tomy-cafe_variant_1.png"
+          src="/images/Cafe.jpg"
           alt="toMy Kawiarnia Logo"
           className="h-24 w-24 md:h-32 md:w-32 mx-auto mb-6 drop-shadow-2xl"
         />

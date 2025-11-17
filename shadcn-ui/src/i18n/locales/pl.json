@@ -24,14 +24,14 @@
   },
   "menu": {
     "title": "Nasza oferta",
-    "coffee": "Kawa specjalistyczna",
-    "coffeeDesc": "Aromatyczna kawa przygotowana przez naszych doświadczonych baristów. Oferujemy szeroki wybór kaw z najlepszych palarn.",
-    "pastries": "Ciasta i desery",
-    "pastriesDesc": "Pyszne, domowe ciasta i desery, w tym nasze słynne serniki. Wszystko przygotowane ze świeżych składników.",
+    "coffee": "Kawa rzemieślnicza",
+    "coffeeDesc": "Świeżo mielona kawa najwyższej jakości, serwowana w unikalnych, ręcznie wykonanych kubkach ceramicznych przez naszych utalentowanych baristów.",
+    "pastries": "Serniki i wypieki",
+    "pastriesDesc": "Rzemieślnicze wypieki i słynne serniki przygotowywane w naszej pracowni piekarniczo-cukierniczej. Wszystkie desery wykonane z najwyższej jakości składników.",
     "ceramics": "Warsztaty ceramiczne",
-    "ceramicsDesc": "Uczestniczymy w warsztatach ceramicznych i oferujemy lokalnie wykonaną ceramikę do zakupu.",
+    "ceramicsDesc": "Warsztaty ceramiczne dla dzieci i dorosłych. Lokalna ceramika wykonywana przez naszych utalentowanych artystów z niepełnosprawnościami dostępna do zakupu.",
     "events": "Wydarzenia kulturalne",
-    "eventsDesc": "Organizujemy koncerty na żywo, warsztaty artystyczne i inne wydarzenia kulturalne."
+    "eventsDesc": "Organizujemy warsztaty artystyczne i wydarzenia kulturalne, tworząc przestrzeń spotkań i integracji w sercu Warszawy."
   },
   "gallery": {
     "title": "Galeria"

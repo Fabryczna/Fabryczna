@@ -7,12 +7,12 @@ export default function Gallery() {
   const [selectedImage, setSelectedImage] = useState<string | null>(null);
 
   const images = [
-    { src: '/assets/hero-cafe-interior_variant_1.jpg', alt: 'Cafe interior' },
-    { src: '/assets/gallery-coffee-pour_variant_2.jpg', alt: 'Coffee preparation' },
-    { src: '/assets/gallery-pastries_variant_1.jpg', alt: 'Pastries and desserts' },
-    { src: '/assets/gallery-ceramics_variant_1.jpg', alt: 'Ceramic workshop' },
-    { src: '/assets/about-team_variant_1.jpg', alt: 'Our team' },
-    { src: '/assets/hero-cafe-interior_variant_2.jpg', alt: 'Cafe atmosphere' },
+    { src: '/assets/510967344_17929798920065578_6245359192033336503_n_variant_1.jpg', alt: 'Cafe interior' },
+    { src: '/assets/482927620_17917322583065578_1830750573849745121_n_variant_1.jpg', alt: 'Coffee preparation' },
+    { src: '/assets/488421804_17920629057065578_4344392129228648134_n_variant_1.jpg', alt: 'Pastries and desserts' },
+    { src: '/assets/504212594_17928361890065578_706424466558488474_n_variant_1.jpg', alt: 'Ceramic workshop' },
+    { src: '/assets/496310396_17924261931065578_590266168430374412_n.jpg', alt: 'Our team' },
+    { src: '/assets/497222474_17924708028065578_6264275441268322953_n.jpg', alt: 'Cafe atmosphere' },
   ];
 
   return (

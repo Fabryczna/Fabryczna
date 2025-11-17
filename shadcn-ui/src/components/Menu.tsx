@@ -10,25 +10,25 @@ export default function Menu() {
       icon: Coffee,
       title: t('menu.coffee'),
       description: t('menu.coffeeDesc'),
-      image: '/assets/gallery-coffee-pour_variant_1.jpg',
+      image: '/assets/482927620_17917322583065578_1830750573849745121_n.jpg',
     },
     {
       icon: Cake,
       title: t('menu.pastries'),
       description: t('menu.pastriesDesc'),
-      image: '/assets/gallery-pastries.jpg',
+      image: '/assets/488421804_17920629057065578_4344392129228648134_n.jpg',
     },
     {
       icon: Palette,
       title: t('menu.ceramics'),
       description: t('menu.ceramicsDesc'),
-      image: '/assets/gallery-ceramics.jpg',
+      image: '/assets/504212594_17928361890065578_706424466558488474_n.jpg',
     },
     {
       icon: Music,
       title: t('menu.events'),
       description: t('menu.eventsDesc'),
-      image: '/assets/hero-cafe-interior.jpg',
+      image: '/assets/510967344_17929798920065578_6245359192033336503_n.jpg',
     },
   ];
 

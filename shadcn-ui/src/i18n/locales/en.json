@@ -12,26 +12,26 @@
     "cta": "Discover our story"
   },
   "about": {
-    "title": "About us",
-    "mission": "Our mission",
+    "title": "About Us",
+    "mission": "Our Mission",
     "missionText": "toMy Kawiarnia is a social cafe run by the Lena Grochowska Foundation. Over 60% of our team consists of people with disabilities, mainly intellectual disabilities. We create a space where employees not only fulfill professional duties but also build self-confidence and acquire new skills.",
-    "story": "Our story",
-    "storyText": "The Warsaw location, opened in September 2023, is the third point in the toMy social cafe network. Previously, we opened locations in Siedlce and Gdańsk. We are located in the center of Warsaw, on Aleje Jerozolimskie, near the intersection with Marszałkowska Street.",
+    "story": "Our Story",
+    "storyText": "The Warsaw location, opened in September 2023, is the third point in the toMy social cafe network. We previously opened locations in Siedlce and Gdańsk. We are located in the center of Warsaw, on Aleje Jerozolimskie, near the intersection with Marszałkowska Street.",
     "awards": "Awards",
     "award1": "Sweets & Coffee Awards® 2024 - Concept Debut",
     "award2": "Food Business Awards® - Socially Responsible Cafe",
     "award3": "UN Nansen Refugee Award 2023 - Lena Grochowska Foundation"
   },
   "menu": {
-    "title": "Our menu",
-    "coffee": "Specialty coffee",
-    "coffeeDesc": "Aromatic coffee prepared by our experienced baristas. We offer a wide selection of coffee from the best roasters.",
-    "pastries": "Pastries and desserts",
-    "pastriesDesc": "Delicious homemade pastries and desserts, including our famous cheesecakes. Everything prepared with fresh ingredients.",
-    "ceramics": "Ceramic workshops",
-    "ceramicsDesc": "We participate in ceramic workshops and offer locally made ceramics for purchase.",
-    "events": "Cultural events",
-    "eventsDesc": "We organize live concerts, art workshops, and other cultural events."
+    "title": "Our Menu",
+    "coffee": "Artisan Coffee",
+    "coffeeDesc": "Freshly ground premium coffee served in unique handmade ceramic cups by our talented baristas.",
+    "pastries": "Cheesecakes & Pastries",
+    "pastriesDesc": "Artisan baked goods and famous cheesecakes prepared in our bakery workshop. All desserts made with the highest quality ingredients.",
+    "ceramics": "Ceramic Workshops",
+    "ceramicsDesc": "Ceramic workshops for children and adults. Local ceramics made by our talented artists with disabilities available for purchase.",
+    "events": "Cultural Events",
+    "eventsDesc": "We organize art workshops and cultural events, creating a space for meetings and integration in the heart of Warsaw."
   },
   "gallery": {
     "title": "Gallery"
@@ -41,7 +41,7 @@
     "address": "Address",
     "addressValue": "Al. Jerozolimskie 42, 00-024 Warsaw",
     "phone": "Phone",
-    "hours": "Opening hours",
+    "hours": "Opening Hours",
     "monday": "Monday",
     "tuesday": "Tuesday",
     "wednesday": "Wednesday",
@@ -51,8 +51,8 @@
     "sunday": "Sunday",
     "hours1": "9:00 AM - 8:00 PM",
     "hours2": "12:00 PM - 8:00 PM",
-    "visitUs": "Visit us",
-    "social": "Social media"
+    "visitUs": "Visit Us",
+    "social": "Social Media"
   },
   "footer": {
     "rights": "© 2024 toMy Kawiarnia Warszawa. All rights reserved.",

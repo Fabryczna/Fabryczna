@@ -1,5 +1,5 @@
 {
-  "timeline_index": 26,
+  "timeline_index": 62,
   "planner": {
     "Team Leader": {
       "1": {
@@ -13,9 +13,24 @@
         "is_finished": true,
         "assignee": "Alex",
         "start_at": 1763384531.5726426,
-        "end_at": 1763385015.770297
+        "end_at": 1763385273.9965851
       },
-      "current_task_id": "1"
+      "current_task_id": "2",
+      "2": {
+        "task_id": "2",
+        "dependent_task_ids": [
+          "1"
+        ],
+        "instruction": "CRITICAL: Replace ALL AI-generated placeholder images with REAL photos from toMy Kawiarnia Warszawa's social media and verify menu accuracy.\n\n**Image Sources to Use:**\n- Instagram: https://www.instagram.com/tomy_kawiarnia_warszawa/\n- Facebook: https://www.facebook.com/toMyKawiarniaWarszawa/mentions/\n- Foundation website: https://fundacjalenygrochowskiej.pl/kat-aktualnosci/otwieramy-tomy-kawiarnia-w-sercu-warszawy/\n\n**Required Actions:**\n1. Download REAL photos from the cafe's Instagram and Facebook pages showing:\n   - Actual cafe interior/atmosphere\n   - Real coffee being prepared/served\n   - Actual pastries and desserts they serve\n   - Real ceramic workshop photos\n   - Real team members working\n   - Actual logo from https://www.facebook.com/photo/?fbid=122159075444021583&set=a.122113312946021583\n\n2. Replace ALL current images in /workspace/shadcn-ui/public/assets/ with real downloaded photos\n\n3. Verify menu content accuracy - check what they ACTUALLY serve:\n   - Coffee offerings (specialty coffee, specific types)\n   - Pastries and desserts (cheesecakes, cakes, specific items)\n   - Ceramic workshop details\n   - Cultural events and art workshops\n   Update translations in all language files (pl.json, uk.json, en.json, tr.json) to reflect ONLY what they actually offer\n\n4. Test that all images load correctly in the website\n\n**Important:**\n- Use ONLY real photos from their social media - NO AI-generated images\n- Do NOT add menu items they don't actually serve\n- Ensure image file names match what's referenced in components (Hero.tsx, Gallery.tsx, Menu.tsx)\n- Keep GitHub Pages compatibility\n\nThe plan has been confirmed with the user. No need to ask human or draft plan again. Proceed directly.",
+        "task_type": "general",
+        "code": "",
+        "result": "",
+        "is_success": false,
+        "is_finished": true,
+        "assignee": "Alex",
+        "start_at": 1763385273.996592,
+        "end_at": 1763386171.4955952
+      }
     }
   },
   "gallery_last_file": {},
@@ -45,14 +60,50 @@
     "23": 1,
     "24": 1,
     "25": 1,
-    "26": 1
+    "26": 1,
+    "27": 1,
+    "28": 1,
+    "29": 1,
+    "30": 1,
+    "31": 1,
+    "32": 1,
+    "33": 1,
+    "34": 1,
+    "35": 1,
+    "36": 1,
+    "37": 1,
+    "38": 1,
+    "39": 1,
+    "40": 1,
+    "41": 1,
+    "42": 1,
+    "43": 1,
+    "44": 1,
+    "45": 1,
+    "46": 1,
+    "47": 1,
+    "48": 1,
+    "49": 1,
+    "50": 1,
+    "51": 1,
+    "52": 1,
+    "53": 1,
+    "54": 1,
+    "55": 1,
+    "56": 1,
+    "57": 1,
+    "58": 1,
+    "59": 1,
+    "60": 1,
+    "61": 1,
+    "62": 1
   },
   "preview_servers": {},
   "preview_server": {
     "project_dir": "/workspace/shadcn-ui",
     "status": "initializing",
     "config_path": ".mgx/config.yaml",
-    "timeline_index": 25
+    "timeline_index": 61
   },
   "last_build_failed": false
 }

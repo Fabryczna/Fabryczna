@@ -14,24 +14,24 @@
   "about": {
     "title": "Hakkımızda",
     "mission": "Misyonumuz",
-    "missionText": "toMy Kawiarnia, Lena Grochowska Vakfı tarafından işletilen sosyal bir kafedir. Ekibimizin %60'ından fazlası, ağırlıklı olarak zihinsel engelli kişilerden oluşmaktadır. Çalışanların sadece mesleki görevlerini yerine getirmekle kalmayıp aynı zamanda özgüven kazandıkları ve yeni beceriler edindikleri bir alan yaratıyoruz.",
+    "missionText": "toMy Kawiarnia, Lena Grochowska Vakfı tarafından işletilen bir sosyal kafedir. Ekibimizin %60'ından fazlası, ağırlıklı olarak zihinsel engelli kişilerden oluşmaktadır. Çalışanların sadece mesleki görevlerini yerine getirmekle kalmayıp aynı zamanda özgüven kazandıkları ve yeni beceriler edindikleri bir alan yaratıyoruz.",
     "story": "Hikayemiz",
-    "storyText": "Eylül 2023'te açılan Varşova lokasyonu, toMy sosyal kafe ağındaki üçüncü noktadır. Daha önce Siedlce ve Gdańsk'ta mekanlar açtık. Varşova'nın merkezinde, Aleje Jerozolimskie'de, Marszałkowska Caddesi ile kesişimin yakınında bulunuyoruz.",
+    "storyText": "Eylül 2023'te açılan Varşova lokasyonu, toMy sosyal kafe ağındaki üçüncü noktadır. Daha önce Siedlce ve Gdańsk'ta lokasyonlar açtık. Varşova'nın merkezinde, Marszałkowska Caddesi ile kesişme noktasına yakın Aleje Jerozolimskie üzerinde bulunuyoruz.",
     "awards": "Ödüller",
-    "award1": "Sweets & Coffee Awards® 2024 - Konsept Debüsü",
+    "award1": "Sweets & Coffee Awards® 2024 - Konsept Lansmanı",
     "award2": "Food Business Awards® - Sosyal Sorumlu Kafe",
     "award3": "BM Nansen Mülteci Ödülü 2023 - Lena Grochowska Vakfı"
   },
   "menu": {
     "title": "Menümüz",
-    "coffee": "Özel kahve",
-    "coffeeDesc": "Deneyimli baristalarımız tarafından hazırlanan aromatik kahve. En iyi kavuruculardan geniş bir kahve seçeneği sunuyoruz.",
-    "pastries": "Hamur işleri ve tatlılar",
-    "pastriesDesc": "Ünlü cheesecake'lerimiz dahil lezzetli ev yapımı hamur işleri ve tatlılar. Her şey taze malzemelerle hazırlanır.",
-    "ceramics": "Seramik atölyeleri",
-    "ceramicsDesc": "Seramik atölyelerine katılıyoruz ve satın almak için yerel yapım seramikler sunuyoruz.",
-    "events": "Kültürel etkinlikler",
-    "eventsDesc": "Canlı konserler, sanat atölyeleri ve diğer kültürel etkinlikler düzenliyoruz."
+    "coffee": "El Yapımı Kahve",
+    "coffeeDesc": "Yetenekli baristalarımız tarafından benzersiz el yapımı seramik fincanlarla servis edilen taze öğütülmüş premium kahve.",
+    "pastries": "Cheesecake ve Hamur İşleri",
+    "pastriesDesc": "Fırın atölyemizde hazırlanan el yapımı hamur işleri ve ünlü cheesecake'ler. Tüm tatlılar en kaliteli malzemelerle yapılır.",
+    "ceramics": "Seramik Atölyeleri",
+    "ceramicsDesc": "Çocuklar ve yetişkinler için seramik atölyeleri. Engelli yetenekli sanatçılarımız tarafından yapılan yerel seramikler satın alınabilir.",
+    "events": "Kültürel Etkinlikler",
+    "eventsDesc": "Varşova'nın kalbinde buluşma ve entegrasyon alanı yaratarak sanat atölyeleri ve kültürel etkinlikler düzenliyoruz."
   },
   "gallery": {
     "title": "Galeri"
@@ -41,7 +41,7 @@
     "address": "Adres",
     "addressValue": "Al. Jerozolimskie 42, 00-024 Varşova",
     "phone": "Telefon",
-    "hours": "Çalışma saatleri",
+    "hours": "Çalışma Saatleri",
     "monday": "Pazartesi",
     "tuesday": "Salı",
     "wednesday": "Çarşamba",
@@ -51,11 +51,11 @@
     "sunday": "Pazar",
     "hours1": "9:00 - 20:00",
     "hours2": "12:00 - 20:00",
-    "visitUs": "Bizi ziyaret edin",
-    "social": "Sosyal medya"
+    "visitUs": "Bizi Ziyaret Edin",
+    "social": "Sosyal Medya"
   },
   "footer": {
     "rights": "© 2024 toMy Kawiarnia Warszawa. Tüm hakları saklıdır.",
-    "foundation": "Lena Grochowska Vakfı projesi"
+    "foundation": "Lena Grochowska Vakfı'nın bir projesi"
   }
 }
