@@ -7,39 +7,42 @@ export default function Gallery() {
   const [selectedImage, setSelectedImage] = useState<string | null>(null);
 
   const images = [
-    { src: '/assets/510967344_17929798920065578_6245359192033336503_n_variant_1.jpg', alt: 'Cafe interior' },
-    { src: '/assets/482927620_17917322583065578_1830750573849745121_n_variant_1.jpg', alt: 'Coffee preparation' },
-    { src: '/assets/488421804_17920629057065578_4344392129228648134_n_variant_1.jpg', alt: 'Pastries and desserts' },
-    { src: '/assets/504212594_17928361890065578_706424466558488474_n_variant_1.jpg', alt: 'Ceramic workshop' },
-    { src: '/assets/496310396_17924261931065578_590266168430374412_n.jpg', alt: 'Our team' },
-    { src: '/assets/497222474_17924708028065578_6264275441268322953_n.jpg', alt: 'Cafe atmosphere' },
+    { src: '/assets/hero-cafe-interior.jpg', alt: 'Industrial cafe interior' },
+    { src: '/assets/coffee-latte-art_variant_1.jpg', alt: 'Specialty coffee' },
+    { src: '/assets/fresh-pastries_variant_1.jpg', alt: 'Fresh pastries' },
+    { src: '/assets/breakfast-food_variant_1.jpg', alt: 'Breakfast plate' },
+    { src: '/assets/cafe-atmosphere_variant_1.jpg', alt: 'Seating area' },
+    { src: '/assets/barista-coffee_variant_1.jpg', alt: 'Barista at work' },
   ];
 
   return (
-    <section id="gallery" className="py-20 bg-gray-50">
+    <section id="gallery" className="py-24 bg-amber-100">
       <div className="container mx-auto px-4">
-        <h2 className="text-4xl md:text-5xl font-bold text-center mb-16">{t('gallery.title')}</h2>
+        <h2 className="text-5xl md:text-6xl font-bold text-center mb-16 text-amber-950">
+          {t('gallery.title')}
+        </h2>
 
-        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
+        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 max-w-7xl mx-auto">
           {images.map((image, index) => (
             <div
               key={index}
-              className="relative aspect-square overflow-hidden rounded-lg cursor-pointer group"
+              className="relative aspect-square overflow-hidden cursor-pointer group rounded-none shadow-lg"
               onClick={() => setSelectedImage(image.src)}
             >
               <img
                 src={image.src}
                 alt={image.alt}
-                className="w-full h-full object-cover transition-transform duration-300 group-hover:scale-110"
+                className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-110"
               />
-              <div className="absolute inset-0 bg-black/0 group-hover:bg-black/20 transition-colors" />
+              <div className="absolute inset-0 bg-gradient-to-t from-amber-950/70 via-amber-950/20 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300" />
+              <div className="absolute inset-0 border-4 border-amber-700 opacity-0 group-hover:opacity-100 transition-opacity duration-300" />
             </div>
           ))}
         </div>
       </div>
 
       <Dialog open={!!selectedImage} onOpenChange={() => setSelectedImage(null)}>
-        <DialogContent className="max-w-4xl p-0 overflow-hidden">
+        <DialogContent className="max-w-5xl p-0 overflow-hidden rounded-none border-4 border-amber-700">
           {selectedImage && (
             <img src={selectedImage} alt="Gallery image" className="w-full h-auto" />
           )}

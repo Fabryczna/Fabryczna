@@ -1,21 +1,21 @@
 {
-  "timeline_index": 62,
+  "timeline_index": 93,
   "planner": {
     "Team Leader": {
       "1": {
         "task_id": "1",
         "dependent_task_ids": [],
-        "instruction": "Create a modern, multilingual cafe website for toMy Kawiarnia Warszawa optimized for GitHub Pages deployment. \n\n**Requirements:**\n- Primary language: Polish (pl), with Ukrainian (uk), English (en), and Turkish (tr) translations\n- Color palette: Black and white (matching the logo at https://www.facebook.com/photo/?fbid=122159075444021583&set=a.122113312946021583)\n- Technology: Use Shadcn-ui, TypeScript, Tailwind CSS, and ensure GitHub Pages compatibility (static site, proper routing with hash-based navigation or proper base path configuration)\n- Design: Unique, original, user-friendly, modern and responsive\n\n**Content to include:**\n- Cafe name: toMy Kawiarnia Warszawa\n- Phone: +48 530 381 052\n- Address: Al. Jerozolimskie 42, 00-024 Warszawa\n- Hours: Mon-Sat 9am-8pm, Sun 12pm-8pm\n- Social mission: Fundacja Leny Grochowskiej project, employs 60%+ people with disabilities, third location (after Siedlce and Gdańsk), opened September 2023\n- Awards: Sweets & Coffee Awards® (Debiut konceptu), Food Business Awards® (Kawiarnia społecznie odpowiedzialna)\n- Offerings: Specialty coffee, artisan pastries, sweets, ceramic workshop, cultural events, art workshops\n- Source links for content/images: https://www.facebook.com/toMyKawiarniaWarszawa/mentions/, https://fundacjalenygrochowskiej.pl/kat-aktualnosci/otwieramy-tomy-kawiarnia-w-sercu-warszawy/, https://www.instagram.com/tomy_kawiarnia_warszawa/\n\n**Website sections:**\n1. Hero/Home with cafe name and compelling visual\n2. About section (cafe story, social mission, Fundacja Leny Grochowskiej)\n3. Menu/Offerings (coffee, pastries, ceramics, events)\n4. Gallery with cafe photos\n5. Contact section with address, phone, embedded map (Al. Jerozolimskie 42, 00-024 Warszawa), opening hours\n6. Language switcher (PL/UK/EN/TR)\n\n**GitHub Pages requirements:**\n- Configure for static hosting (no server-side rendering)\n- Use hash-based routing or proper base path configuration\n- Ensure all assets load correctly with relative paths\n- Include proper index.html as entry point\n- Test that the site works when deployed to GitHub Pages without modifications\n\nThe plan has been confirmed with the user. No need to ask human or draft plan again. Proceed directly.",
+        "instruction": "Redesign the existing cafe website for Kawiarnia Fabryczna with a completely unique theme and design, while maintaining GitHub Pages compatibility.\n\n**Requirements:**\n- Transform the existing toMy Kawiarnia website infrastructure into Kawiarnia Fabryczna\n- Create a UNIQUE design theme (different from the black/white theme) - research Kawiarnia Fabryczna's brand identity from their social media\n- Technology: Keep Shadcn-ui, TypeScript, Tailwind CSS, maintain GitHub Pages compatibility\n- Design: Modern, unique, user-friendly, responsive\n\n**New Content:**\n- Cafe name: Fabryczna (or Kawiarnia Fabryczna)\n- Phone: +48 692 431 717\n- Address: Fabryczna 28/30, 00-446 Warszawa\n- Hours: Mon-Fri 7:30am-6pm, Sat-Sun 8:30am-5pm\n- Logo: https://scontent-waw2-2.cdninstagram.com/v/t51.2885-19/1171061_303443903192559_1066918953_a.jpg?efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xNTAuYzIifQ&_nc_ht=scontent-waw2-2.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2QFVC99pqajK2Y4izpAu7_E_Zer-G2RnF5PqxWE8-N8tU6LINV1ti89WZ5NVYp6G2H0&_nc_ohc=K9MTQM1CotUQ7kNvwGdkkff&_nc_gid=qTixQ5mdRnYsWQGCLjb2Wg&edm=APoiHPcBAAAA&ccb=7-5&oh=00_AfhgyKsvLmsJ_8SPcOP-eCf1FRLfSVVWfBIxtg7OfGKDMg&oe=6920FA8F&_nc_sid=22de04\n\n**Source links for research and real photos:**\n- Instagram: https://www.instagram.com/kawiarniafabryczna/\n- Facebook: https://www.facebook.com/kawiarniafabryczna/?locale=pl_PL\n- Kawowa Mapa: https://www.kawowamapa.pl/kawiarni/kawiarnia-fabryczna/\n- Ziarno w Kubek: https://ziarnowkubek.pl/kawiarnia/81,kawiarnia-fabryczna\n\n**Tasks:**\n1. Research Kawiarnia Fabryczna's brand identity, color palette, and atmosphere from social media\n2. Download REAL photos from Instagram/Facebook showing cafe interior, coffee, food, atmosphere\n3. Download the logo from the provided URL\n4. Design a UNIQUE theme reflecting Kawiarnia Fabryczna's brand (analyze their colors, style, atmosphere from photos)\n5. Update all content (name, address, phone, hours) throughout the website\n6. Research and update menu/offerings based on what they actually serve\n7. Replace all images with real Kawiarnia Fabryczna photos\n8. Update all 4 language translations (Polish, Ukrainian, English, Turkish)\n9. Maintain the same website structure (Hero, About, Menu, Gallery, Contact sections)\n10. Ensure GitHub Pages compatibility (static site, proper routing, relative paths)\n\n**Important:**\n- Use ONLY real photos from Kawiarnia Fabryczna's social media\n- Create a unique design that's distinctly different from toMy Kawiarnia\n- Research their actual menu offerings - don't make assumptions\n- Keep the multilingual support\n- Maintain GitHub Pages infrastructure\n\nThe plan has been confirmed with the user. No need to ask human or draft plan again. Proceed directly.",
         "task_type": "general",
         "code": "",
         "result": "",
         "is_success": false,
         "is_finished": true,
         "assignee": "Alex",
-        "start_at": 1763384531.5726426,
-        "end_at": 1763385273.9965851
+        "start_at": 1763387668.9651234,
+        "end_at": 1763388354.5295072
       },
-      "current_task_id": "2",
+      "current_task_id": "1",
       "2": {
         "task_id": "2",
         "dependent_task_ids": [
@@ -29,7 +29,7 @@
         "is_finished": true,
         "assignee": "Alex",
         "start_at": 1763385273.996592,
-        "end_at": 1763386171.4955952
+        "end_at": 1763387668.9651175
       }
     }
   },
@@ -96,14 +96,45 @@
     "59": 1,
     "60": 1,
     "61": 1,
-    "62": 1
+    "62": 1,
+    "63": 1,
+    "64": 1,
+    "65": 1,
+    "66": 1,
+    "67": 1,
+    "68": 1,
+    "69": 1,
+    "70": 1,
+    "71": 1,
+    "72": 1,
+    "73": 1,
+    "74": 1,
+    "75": 1,
+    "76": 1,
+    "77": 1,
+    "78": 1,
+    "79": 1,
+    "80": 1,
+    "81": 1,
+    "82": 1,
+    "83": 1,
+    "84": 1,
+    "85": 1,
+    "86": 1,
+    "87": 1,
+    "88": 1,
+    "89": 1,
+    "90": 1,
+    "91": 1,
+    "92": 1,
+    "93": 1
   },
   "preview_servers": {},
   "preview_server": {
     "project_dir": "/workspace/shadcn-ui",
     "status": "initializing",
     "config_path": ".mgx/config.yaml",
-    "timeline_index": 61
+    "timeline_index": 92
   },
   "last_build_failed": false
 }

@@ -7,31 +7,26 @@
     "contact": "Contact"
   },
   "hero": {
-    "title": "toMy Kawiarnia Warszawa",
-    "subtitle": "Social cafe in the heart of Warsaw",
-    "cta": "Discover our story"
+    "title": "Kawiarnia Fabryczna",
+    "subtitle": "Specialty Coffee in the Heart of Warsaw",
+    "cta": "Discover More"
   },
   "about": {
     "title": "About Us",
-    "mission": "Our Mission",
-    "missionText": "toMy Kawiarnia is a social cafe run by the Lena Grochowska Foundation. Over 60% of our team consists of people with disabilities, mainly intellectual disabilities. We create a space where employees not only fulfill professional duties but also build self-confidence and acquire new skills.",
-    "story": "Our Story",
-    "storyText": "The Warsaw location, opened in September 2023, is the third point in the toMy social cafe network. We previously opened locations in Siedlce and Gdańsk. We are located in the center of Warsaw, on Aleje Jerozolimskie, near the intersection with Marszałkowska Street.",
-    "awards": "Awards",
-    "award1": "Sweets & Coffee Awards® 2024 - Concept Debut",
-    "award2": "Food Business Awards® - Socially Responsible Cafe",
-    "award3": "UN Nansen Refugee Award 2023 - Lena Grochowska Foundation"
+    "story": "Kawiarnia Fabryczna is a unique place in the center of Warsaw, where industrial climate meets passion for coffee. We are located in the historic Wola district, in a building with a rich factory heritage.",
+    "mission": "Our mission is to serve the best specialty coffee, prepared with attention to every detail. We work with the best roasters to provide you with exceptional taste experiences.",
+    "atmosphere": "Industrial decor with brick walls, vintage furniture and warm lighting creates a cozy atmosphere, perfect for work, meetings with friends or a moment of relaxation with your favorite coffee."
   },
   "menu": {
     "title": "Our Menu",
-    "coffee": "Artisan Coffee",
-    "coffeeDesc": "Freshly ground premium coffee served in unique handmade ceramic cups by our talented baristas.",
-    "pastries": "Cheesecakes & Pastries",
-    "pastriesDesc": "Artisan baked goods and famous cheesecakes prepared in our bakery workshop. All desserts made with the highest quality ingredients.",
-    "ceramics": "Ceramic Workshops",
-    "ceramicsDesc": "Ceramic workshops for children and adults. Local ceramics made by our talented artists with disabilities available for purchase.",
-    "events": "Cultural Events",
-    "eventsDesc": "We organize art workshops and cultural events, creating a space for meetings and integration in the heart of Warsaw."
+    "coffee": "Specialty Coffee",
+    "coffeeDesc": "Highest quality specialty coffee prepared by experienced baristas. Espresso, cappuccino, flat white, pour over and many other brewing methods.",
+    "food": "Breakfast & Snacks",
+    "foodDesc": "Fresh breakfasts, toasts, scrambled eggs, granola with yogurt. Perfect combination with our coffee for a good start to the day.",
+    "pastries": "Pastries & Desserts",
+    "pastriesDesc": "Fresh croissants, cookies, cakes and desserts. Everything prepared daily by local bakers.",
+    "drinks": "Beverages",
+    "drinksDesc": "Teas, freshly squeezed juices, lemonades and plant-based drinks. Something for everyone looking for an alternative to coffee."
   },
   "gallery": {
     "title": "Gallery"
@@ -39,8 +34,11 @@
   "contact": {
     "title": "Contact",
     "address": "Address",
-    "addressValue": "Al. Jerozolimskie 42, 00-024 Warsaw",
+    "addressValue": "Fabryczna 28/30, 00-446 Warsaw",
     "phone": "Phone",
+    "phoneValue": "+48 692 431 717",
+    "email": "Email",
+    "emailValue": "espresso@kawiarniafabryczna.pl",
     "hours": "Opening Hours",
     "monday": "Monday",
     "tuesday": "Tuesday",
@@ -49,13 +47,8 @@
     "friday": "Friday",
     "saturday": "Saturday",
     "sunday": "Sunday",
-    "hours1": "9:00 AM - 8:00 PM",
-    "hours2": "12:00 PM - 8:00 PM",
-    "visitUs": "Visit Us",
-    "social": "Social Media"
-  },
-  "footer": {
-    "rights": "© 2024 toMy Kawiarnia Warszawa. All rights reserved.",
-    "foundation": "A project of the Lena Grochowska Foundation"
+    "weekdayHours": "7:30 AM - 6:00 PM",
+    "weekendHours": "8:30 AM - 5:00 PM",
+    "visitUs": "Visit Us"
   }
 }

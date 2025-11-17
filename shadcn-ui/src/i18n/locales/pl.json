@@ -2,36 +2,31 @@
   "nav": {
     "home": "Strona główna",
     "about": "O nas",
-    "menu": "Oferta",
+    "menu": "Menu",
     "gallery": "Galeria",
     "contact": "Kontakt"
   },
   "hero": {
-    "title": "toMy Kawiarnia Warszawa",
-    "subtitle": "Kawiarnia społeczna w sercu Warszawy",
-    "cta": "Odkryj naszą historię"
+    "title": "Kawiarnia Fabryczna",
+    "subtitle": "Specialty Coffee w Sercu Warszawy",
+    "cta": "Odkryj Więcej"
   },
   "about": {
-    "title": "O nas",
-    "mission": "Nasza misja",
-    "missionText": "toMy Kawiarnia to kawiarnia społeczna prowadzona przez Fundację Leny Grochowskiej. Ponad 60% naszego zespołu stanowią osoby z niepełnosprawnościami, głównie z niepełnosprawnością intelektualną. Tworzymy przestrzeń, w której pracownicy nie tylko realizują obowiązki zawodowe, ale także budują pewność siebie i zdobywają nowe umiejętności.",
-    "story": "Nasza historia",
-    "storyText": "Warszawska lokalizacja, otwarta we wrześniu 2023 roku, jest trzecim punktem w sieci kawiarni społecznych toMy. Wcześniej otworzyliśmy lokale w Siedlcach i Gdańsku. Znajdujemy się w centrum Warszawy, przy Alejach Jerozolimskich, w pobliżu skrzyżowania z ulicą Marszałkowską.",
-    "awards": "Nagrody",
-    "award1": "Sweets & Coffee Awards® 2024 - Debiut konceptu",
-    "award2": "Food Business Awards® - Kawiarnia społecznie odpowiedzialna",
-    "award3": "Międzynarodowa Nagroda Nansena ONZ 2023 - Fundacja Leny Grochowskiej"
+    "title": "O Nas",
+    "story": "Kawiarnia Fabryczna to wyjątkowe miejsce w centrum Warszawy, gdzie industrialny klimat spotyka się z pasją do kawy. Znajdujemy się w historycznej dzielnicy Wola, w budynku o bogatej fabrycznej przeszłości.",
+    "mission": "Nasza misja to serwowanie najlepszej specialty coffee, przygotowanej z dbałością o każdy detal. Współpracujemy z najlepszymi palarniami, aby dostarczyć Wam wyjątkowe doświadczenia smakowe.",
+    "atmosphere": "Industrialny wystrój z ceglanymi ścianami, vintage'owymi meblami i ciepłym oświetleniem tworzy przytulną atmosferę, idealną do pracy, spotkań ze znajomymi lub chwili relaksu z ulubioną kawą."
   },
   "menu": {
-    "title": "Nasza oferta",
-    "coffee": "Kawa rzemieślnicza",
-    "coffeeDesc": "Świeżo mielona kawa najwyższej jakości, serwowana w unikalnych, ręcznie wykonanych kubkach ceramicznych przez naszych utalentowanych baristów.",
-    "pastries": "Serniki i wypieki",
-    "pastriesDesc": "Rzemieślnicze wypieki i słynne serniki przygotowywane w naszej pracowni piekarniczo-cukierniczej. Wszystkie desery wykonane z najwyższej jakości składników.",
-    "ceramics": "Warsztaty ceramiczne",
-    "ceramicsDesc": "Warsztaty ceramiczne dla dzieci i dorosłych. Lokalna ceramika wykonywana przez naszych utalentowanych artystów z niepełnosprawnościami dostępna do zakupu.",
-    "events": "Wydarzenia kulturalne",
-    "eventsDesc": "Organizujemy warsztaty artystyczne i wydarzenia kulturalne, tworząc przestrzeń spotkań i integracji w sercu Warszawy."
+    "title": "Nasze Menu",
+    "coffee": "Specialty Coffee",
+    "coffeeDesc": "Najwyższej jakości kawa specialty przygotowana przez doświadczonych baristów. Espresso, cappuccino, flat white, pour over i wiele innych metod parzenia.",
+    "food": "Śniadania i Przekąski",
+    "foodDesc": "Świeże śniadania, tosty, jajecznica, granola z jogurtem. Idealne połączenie z naszą kawą na dobry początek dnia.",
+    "pastries": "Wypieki i Desery",
+    "pastriesDesc": "Świeże croissanty, ciastka, ciasta i desery. Wszystko przygotowane codziennie przez lokalnych piekarzy.",
+    "drinks": "Napoje",
+    "drinksDesc": "Herbaty, soki świeżo wyciskane, lemoniady i napoje roślinne. Coś dla każdego, kto szuka alternatywy dla kawy."
   },
   "gallery": {
     "title": "Galeria"
@@ -39,9 +34,12 @@
   "contact": {
     "title": "Kontakt",
     "address": "Adres",
-    "addressValue": "Al. Jerozolimskie 42, 00-024 Warszawa",
+    "addressValue": "Fabryczna 28/30, 00-446 Warszawa",
     "phone": "Telefon",
-    "hours": "Godziny otwarcia",
+    "phoneValue": "+48 692 431 717",
+    "email": "Email",
+    "emailValue": "espresso@kawiarniafabryczna.pl",
+    "hours": "Godziny Otwarcia",
     "monday": "Poniedziałek",
     "tuesday": "Wtorek",
     "wednesday": "Środa",
@@ -49,13 +47,8 @@
     "friday": "Piątek",
     "saturday": "Sobota",
     "sunday": "Niedziela",
-    "hours1": "9:00 - 20:00",
-    "hours2": "12:00 - 20:00",
-    "visitUs": "Odwiedź nas",
-    "social": "Media społecznościowe"
-  },
-  "footer": {
-    "rights": "© 2024 toMy Kawiarnia Warszawa. Wszystkie prawa zastrzeżone.",
-    "foundation": "Projekt Fundacji Leny Grochowskiej"
+    "weekdayHours": "7:30 - 18:00",
+    "weekendHours": "8:30 - 17:00",
+    "visitUs": "Odwiedź Nas"
   }
 }

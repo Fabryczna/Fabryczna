@@ -1,6 +1,6 @@
 import { useTranslation } from 'react-i18next';
-import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/components/ui/card';
-import { Coffee, Cake, Palette, Music } from 'lucide-react';
+import { Card, CardHeader, CardTitle, CardDescription } from '@/components/ui/card';
+import { Coffee, Croissant, UtensilsCrossed, Wine } from 'lucide-react';
 
 export default function Menu() {
   const { t } = useTranslation();
@@ -10,51 +10,59 @@ export default function Menu() {
       icon: Coffee,
       title: t('menu.coffee'),
       description: t('menu.coffeeDesc'),
-      image: '/assets/482927620_17917322583065578_1830750573849745121_n.jpg',
+      image: '/assets/coffee-latte-art.jpg',
     },
     {
-      icon: Cake,
+      icon: UtensilsCrossed,
+      title: t('menu.food'),
+      description: t('menu.foodDesc'),
+      image: '/assets/breakfast-food.jpg',
+    },
+    {
+      icon: Croissant,
       title: t('menu.pastries'),
       description: t('menu.pastriesDesc'),
-      image: '/assets/488421804_17920629057065578_4344392129228648134_n.jpg',
+      image: '/assets/fresh-pastries.jpg',
     },
     {
-      icon: Palette,
-      title: t('menu.ceramics'),
-      description: t('menu.ceramicsDesc'),
-      image: '/assets/504212594_17928361890065578_706424466558488474_n.jpg',
-    },
-    {
-      icon: Music,
-      title: t('menu.events'),
-      description: t('menu.eventsDesc'),
-      image: '/assets/510967344_17929798920065578_6245359192033336503_n.jpg',
+      icon: Wine,
+      title: t('menu.drinks'),
+      description: t('menu.drinksDesc'),
+      image: '/assets/barista-coffee.jpg',
     },
   ];
 
   return (
-    <section id="menu" className="py-20 bg-white">
+    <section id="menu" className="py-24 bg-white">
       <div className="container mx-auto px-4">
-        <h2 className="text-4xl md:text-5xl font-bold text-center mb-16">{t('menu.title')}</h2>
+        <h2 className="text-5xl md:text-6xl font-bold text-center mb-16 text-amber-950">
+          {t('menu.title')}
+        </h2>
 
-        <div className="grid md:grid-cols-2 gap-8">
+        <div className="grid md:grid-cols-2 gap-8 max-w-6xl mx-auto">
           {menuItems.map((item, index) => {
             const Icon = item.icon;
             return (
-              <Card key={index} className="overflow-hidden hover:shadow-xl transition-shadow">
-                <div className="h-48 overflow-hidden">
+              <Card 
+                key={index} 
+                className="overflow-hidden hover:shadow-2xl transition-all duration-300 border-2 border-amber-200 rounded-none group"
+              >
+                <div className="h-64 overflow-hidden relative">
                   <img
                     src={item.image}
                     alt={item.title}
-                    className="w-full h-full object-cover hover:scale-105 transition-transform duration-300"
+                    className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-500"
                   />
-                </div>
-                <CardHeader>
-                  <div className="flex items-center gap-3 mb-2">
-                    <Icon className="h-6 w-6" />
-                    <CardTitle className="text-2xl">{item.title}</CardTitle>
+                  <div className="absolute inset-0 bg-gradient-to-t from-amber-950/70 to-transparent" />
+                  <div className="absolute bottom-4 left-4 flex items-center gap-3">
+                    <div className="bg-amber-700 p-3 rounded-full">
+                      <Icon className="h-6 w-6 text-white" />
+                    </div>
                   </div>
-                  <CardDescription className="text-base text-gray-700">
+                </div>
+                <CardHeader className="bg-amber-50 p-6">
+                  <CardTitle className="text-2xl mb-3 text-amber-950">{item.title}</CardTitle>
+                  <CardDescription className="text-base text-amber-900 leading-relaxed">
                     {item.description}
                   </CardDescription>
                 </CardHeader>

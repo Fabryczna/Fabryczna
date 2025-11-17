@@ -7,31 +7,26 @@
     "contact": "İletişim"
   },
   "hero": {
-    "title": "toMy Kawiarnia Warszawa",
-    "subtitle": "Varşova'nın kalbinde sosyal kafe",
-    "cta": "Hikayemizi keşfedin"
+    "title": "Kawiarnia Fabryczna",
+    "subtitle": "Varşova'nın Kalbinde Specialty Kahve",
+    "cta": "Daha Fazla Keşfet"
   },
   "about": {
     "title": "Hakkımızda",
-    "mission": "Misyonumuz",
-    "missionText": "toMy Kawiarnia, Lena Grochowska Vakfı tarafından işletilen bir sosyal kafedir. Ekibimizin %60'ından fazlası, ağırlıklı olarak zihinsel engelli kişilerden oluşmaktadır. Çalışanların sadece mesleki görevlerini yerine getirmekle kalmayıp aynı zamanda özgüven kazandıkları ve yeni beceriler edindikleri bir alan yaratıyoruz.",
-    "story": "Hikayemiz",
-    "storyText": "Eylül 2023'te açılan Varşova lokasyonu, toMy sosyal kafe ağındaki üçüncü noktadır. Daha önce Siedlce ve Gdańsk'ta lokasyonlar açtık. Varşova'nın merkezinde, Marszałkowska Caddesi ile kesişme noktasına yakın Aleje Jerozolimskie üzerinde bulunuyoruz.",
-    "awards": "Ödüller",
-    "award1": "Sweets & Coffee Awards® 2024 - Konsept Lansmanı",
-    "award2": "Food Business Awards® - Sosyal Sorumlu Kafe",
-    "award3": "BM Nansen Mülteci Ödülü 2023 - Lena Grochowska Vakfı"
+    "story": "Kawiarnia Fabryczna, Varşova'nın merkezinde, endüstriyel havanın kahve tutkusuyla buluştuğu eşsiz bir yerdir. Zengin fabrika geçmişine sahip bir binada, tarihi Wola bölgesinde bulunuyoruz.",
+    "mission": "Misyonumuz, her detaya özen gösterilerek hazırlanmış en iyi specialty kahveyi sunmaktır. Size olağanüstü tat deneyimleri sunmak için en iyi kavurucularla çalışıyoruz.",
+    "atmosphere": "Tuğla duvarlar, vintage mobilyalar ve sıcak aydınlatma ile endüstriyel dekor, çalışmak, arkadaşlarla buluşmak veya en sevdiğiniz kahveyle bir an rahatlamak için mükemmel, rahat bir atmosfer yaratır."
   },
   "menu": {
     "title": "Menümüz",
-    "coffee": "El Yapımı Kahve",
-    "coffeeDesc": "Yetenekli baristalarımız tarafından benzersiz el yapımı seramik fincanlarla servis edilen taze öğütülmüş premium kahve.",
-    "pastries": "Cheesecake ve Hamur İşleri",
-    "pastriesDesc": "Fırın atölyemizde hazırlanan el yapımı hamur işleri ve ünlü cheesecake'ler. Tüm tatlılar en kaliteli malzemelerle yapılır.",
-    "ceramics": "Seramik Atölyeleri",
-    "ceramicsDesc": "Çocuklar ve yetişkinler için seramik atölyeleri. Engelli yetenekli sanatçılarımız tarafından yapılan yerel seramikler satın alınabilir.",
-    "events": "Kültürel Etkinlikler",
-    "eventsDesc": "Varşova'nın kalbinde buluşma ve entegrasyon alanı yaratarak sanat atölyeleri ve kültürel etkinlikler düzenliyoruz."
+    "coffee": "Specialty Kahve",
+    "coffeeDesc": "Deneyimli baristalar tarafından hazırlanan en yüksek kalitede specialty kahve. Espresso, cappuccino, flat white, pour over ve daha birçok demleme yöntemi.",
+    "food": "Kahvaltı ve Atıştırmalıklar",
+    "foodDesc": "Taze kahvaltılar, tostlar, omlet, yoğurtlu granola. Güne iyi bir başlangıç için kahvemizle mükemmel kombinasyon.",
+    "pastries": "Hamur İşleri ve Tatlılar",
+    "pastriesDesc": "Taze kruvasanlar, kurabiyeler, kekler ve tatlılar. Her şey yerel fırıncılar tarafından günlük olarak hazırlanır.",
+    "drinks": "İçecekler",
+    "drinksDesc": "Çaylar, taze sıkılmış meyve suları, limonatalar ve bitkisel içecekler. Kahveye alternatif arayan herkes için bir şeyler."
   },
   "gallery": {
     "title": "Galeri"
@@ -39,8 +34,11 @@
   "contact": {
     "title": "İletişim",
     "address": "Adres",
-    "addressValue": "Al. Jerozolimskie 42, 00-024 Varşova",
+    "addressValue": "Fabryczna 28/30, 00-446 Varşova",
     "phone": "Telefon",
+    "phoneValue": "+48 692 431 717",
+    "email": "E-posta",
+    "emailValue": "espresso@kawiarniafabryczna.pl",
     "hours": "Çalışma Saatleri",
     "monday": "Pazartesi",
     "tuesday": "Salı",
@@ -49,13 +47,8 @@
     "friday": "Cuma",
     "saturday": "Cumartesi",
     "sunday": "Pazar",
-    "hours1": "9:00 - 20:00",
-    "hours2": "12:00 - 20:00",
-    "visitUs": "Bizi Ziyaret Edin",
-    "social": "Sosyal Medya"
-  },
-  "footer": {
-    "rights": "© 2024 toMy Kawiarnia Warszawa. Tüm hakları saklıdır.",
-    "foundation": "Lena Grochowska Vakfı'nın bir projesi"
+    "weekdayHours": "7:30 - 18:00",
+    "weekendHours": "8:30 - 17:00",
+    "visitUs": "Bizi Ziyaret Edin"
   }
 }
