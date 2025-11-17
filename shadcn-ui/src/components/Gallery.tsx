@@ -7,12 +7,12 @@ export default function Gallery() {
   const [selectedImage, setSelectedImage] = useState<string | null>(null);
 
   const images = [
-    { src: '/assets/hero-cafe-interior.jpg', alt: 'Industrial cafe interior' },
-    { src: '/assets/coffee-latte-art_variant_1.jpg', alt: 'Specialty coffee' },
-    { src: '/assets/fresh-pastries_variant_1.jpg', alt: 'Fresh pastries' },
-    { src: '/assets/breakfast-food_variant_1.jpg', alt: 'Breakfast plate' },
-    { src: '/assets/cafe-atmosphere_variant_1.jpg', alt: 'Seating area' },
-    { src: '/assets/barista-coffee_variant_1.jpg', alt: 'Barista at work' },
+    { src: `${import.meta.env.BASE_URL}assets/hero-cafe-interior.jpg`, alt: 'Industrial cafe interior' },
+    { src: `${import.meta.env.BASE_URL}assets/coffee-latte-art_variant_1.jpg`, alt: 'Specialty coffee' },
+    { src: `${import.meta.env.BASE_URL}assets/fresh-pastries_variant_1.jpg`, alt: 'Fresh pastries' },
+    { src: `${import.meta.env.BASE_URL}assets/breakfast-food_variant_1.jpg`, alt: 'Breakfast plate' },
+    { src: `${import.meta.env.BASE_URL}assets/cafe-atmosphere_variant_1.jpg`, alt: 'Seating area' },
+    { src: `${import.meta.env.BASE_URL}assets/barista-coffee_variant_1.jpg`, alt: 'Barista at work' },
   ];
 
   return (

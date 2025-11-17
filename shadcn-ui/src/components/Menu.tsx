@@ -10,25 +10,25 @@ export default function Menu() {
       icon: Coffee,
       title: t('menu.coffee'),
       description: t('menu.coffeeDesc'),
-      image: '/assets/coffee-latte-art.jpg',
+      image: `${import.meta.env.BASE_URL}assets/coffee-latte-art.jpg`,
     },
     {
       icon: UtensilsCrossed,
       title: t('menu.food'),
       description: t('menu.foodDesc'),
-      image: '/assets/breakfast-food.jpg',
+      image: `${import.meta.env.BASE_URL}assets/breakfast-food.jpg`,
     },
     {
       icon: Croissant,
       title: t('menu.pastries'),
       description: t('menu.pastriesDesc'),
-      image: '/assets/fresh-pastries.jpg',
+      image: `${import.meta.env.BASE_URL}assets/fresh-pastries.jpg`,
     },
     {
       icon: Wine,
       title: t('menu.drinks'),
       description: t('menu.drinksDesc'),
-      image: '/assets/barista-coffee.jpg',
+      image: `${import.meta.env.BASE_URL}assets/barista-coffee.jpg`,
     },
   ];
 

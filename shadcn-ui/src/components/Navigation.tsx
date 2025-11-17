@@ -45,7 +45,7 @@ export default function Navigation() {
             className="flex items-center gap-3 group"
           >
             <img
-              src="/assets/fabryczna-logo_variant_2.jpg"
+              src={`${import.meta.env.BASE_URL}assets/logo.png`}
               alt="Kawiarnia Fabryczna"
               className="h-12 w-12 rounded-full border-2 border-amber-700/50 group-hover:border-amber-700 transition-all"
             />

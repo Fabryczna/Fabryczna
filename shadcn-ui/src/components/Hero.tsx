@@ -17,7 +17,7 @@ export default function Hero() {
       <div
         className="absolute inset-0 bg-cover bg-center bg-no-repeat"
         style={{
-          backgroundImage: 'url(/assets/hero-cafe-interior.jpg)',
+          backgroundImage: `url(${import.meta.env.BASE_URL}assets/hero-cafe-interior.jpg)`,
         }}
       >
         <div className="absolute inset-0 bg-gradient-to-b from-amber-950/70 via-stone-900/60 to-stone-950/80" />
@@ -25,7 +25,7 @@ export default function Hero() {
 
       <div className="relative z-10 text-center text-white px-4 max-w-4xl mx-auto">
         <img
-          src="/assets/fabryczna-logo.jpg"
+          src={`${import.meta.env.BASE_URL}assets/logo.png`}
           alt="Kawiarnia Fabryczna Logo"
           className="h-28 w-28 md:h-36 md:w-36 mx-auto mb-8 rounded-full border-4 border-amber-700/40 drop-shadow-2xl"
         />

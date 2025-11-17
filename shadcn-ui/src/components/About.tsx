@@ -46,7 +46,7 @@ export default function About() {
         <div className="max-w-4xl mx-auto">
           <div className="relative h-96 rounded-none overflow-hidden shadow-2xl">
             <img
-              src="/assets/cafe-atmosphere.jpg"
+              src={`${import.meta.env.BASE_URL}assets/cafe-atmosphere.jpg`}
               alt="Cafe interior"
               className="w-full h-full object-cover"
             />
