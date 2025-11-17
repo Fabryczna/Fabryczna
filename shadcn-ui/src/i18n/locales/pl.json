@@ -1,0 +1,61 @@
+{
+  "nav": {
+    "home": "Strona główna",
+    "about": "O nas",
+    "menu": "Oferta",
+    "gallery": "Galeria",
+    "contact": "Kontakt"
+  },
+  "hero": {
+    "title": "toMy Kawiarnia Warszawa",
+    "subtitle": "Kawiarnia społeczna w sercu Warszawy",
+    "cta": "Odkryj naszą historię"
+  },
+  "about": {
+    "title": "O nas",
+    "mission": "Nasza misja",
+    "missionText": "toMy Kawiarnia to kawiarnia społeczna prowadzona przez Fundację Leny Grochowskiej. Ponad 60% naszego zespołu stanowią osoby z niepełnosprawnościami, głównie z niepełnosprawnością intelektualną. Tworzymy przestrzeń, w której pracownicy nie tylko realizują obowiązki zawodowe, ale także budują pewność siebie i zdobywają nowe umiejętności.",
+    "story": "Nasza historia",
+    "storyText": "Warszawska lokalizacja, otwarta we wrześniu 2023 roku, jest trzecim punktem w sieci kawiarni społecznych toMy. Wcześniej otworzyliśmy lokale w Siedlcach i Gdańsku. Znajdujemy się w centrum Warszawy, przy Alejach Jerozolimskich, w pobliżu skrzyżowania z ulicą Marszałkowską.",
+    "awards": "Nagrody",
+    "award1": "Sweets & Coffee Awards® 2024 - Debiut konceptu",
+    "award2": "Food Business Awards® - Kawiarnia społecznie odpowiedzialna",
+    "award3": "Międzynarodowa Nagroda Nansena ONZ 2023 - Fundacja Leny Grochowskiej"
+  },
+  "menu": {
+    "title": "Nasza oferta",
+    "coffee": "Kawa specjalistyczna",
+    "coffeeDesc": "Aromatyczna kawa przygotowana przez naszych doświadczonych baristów. Oferujemy szeroki wybór kaw z najlepszych palarn.",
+    "pastries": "Ciasta i desery",
+    "pastriesDesc": "Pyszne, domowe ciasta i desery, w tym nasze słynne serniki. Wszystko przygotowane ze świeżych składników.",
+    "ceramics": "Warsztaty ceramiczne",
+    "ceramicsDesc": "Uczestniczymy w warsztatach ceramicznych i oferujemy lokalnie wykonaną ceramikę do zakupu.",
+    "events": "Wydarzenia kulturalne",
+    "eventsDesc": "Organizujemy koncerty na żywo, warsztaty artystyczne i inne wydarzenia kulturalne."
+  },
+  "gallery": {
+    "title": "Galeria"
+  },
+  "contact": {
+    "title": "Kontakt",
+    "address": "Adres",
+    "addressValue": "Al. Jerozolimskie 42, 00-024 Warszawa",
+    "phone": "Telefon",
+    "hours": "Godziny otwarcia",
+    "monday": "Poniedziałek",
+    "tuesday": "Wtorek",
+    "wednesday": "Środa",
+    "thursday": "Czwartek",
+    "friday": "Piątek",
+    "saturday": "Sobota",
+    "sunday": "Niedziela",
+    "hours1": "9:00 - 20:00",
+    "hours2": "12:00 - 20:00",
+    "visitUs": "Odwiedź nas",
+    "social": "Media społecznościowe"
+  },
+  "footer": {
+    "rights": "© 2024 toMy Kawiarnia Warszawa. Wszystkie prawa zastrzeżone.",
+    "foundation": "Projekt Fundacji Leny Grochowskiej"
+  }
+}

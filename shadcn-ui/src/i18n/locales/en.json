@@ -1,0 +1,61 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "menu": "Menu",
+    "gallery": "Gallery",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "toMy Kawiarnia Warszawa",
+    "subtitle": "Social cafe in the heart of Warsaw",
+    "cta": "Discover our story"
+  },
+  "about": {
+    "title": "About us",
+    "mission": "Our mission",
+    "missionText": "toMy Kawiarnia is a social cafe run by the Lena Grochowska Foundation. Over 60% of our team consists of people with disabilities, mainly intellectual disabilities. We create a space where employees not only fulfill professional duties but also build self-confidence and acquire new skills.",
+    "story": "Our story",
+    "storyText": "The Warsaw location, opened in September 2023, is the third point in the toMy social cafe network. Previously, we opened locations in Siedlce and Gdańsk. We are located in the center of Warsaw, on Aleje Jerozolimskie, near the intersection with Marszałkowska Street.",
+    "awards": "Awards",
+    "award1": "Sweets & Coffee Awards® 2024 - Concept Debut",
+    "award2": "Food Business Awards® - Socially Responsible Cafe",
+    "award3": "UN Nansen Refugee Award 2023 - Lena Grochowska Foundation"
+  },
+  "menu": {
+    "title": "Our menu",
+    "coffee": "Specialty coffee",
+    "coffeeDesc": "Aromatic coffee prepared by our experienced baristas. We offer a wide selection of coffee from the best roasters.",
+    "pastries": "Pastries and desserts",
+    "pastriesDesc": "Delicious homemade pastries and desserts, including our famous cheesecakes. Everything prepared with fresh ingredients.",
+    "ceramics": "Ceramic workshops",
+    "ceramicsDesc": "We participate in ceramic workshops and offer locally made ceramics for purchase.",
+    "events": "Cultural events",
+    "eventsDesc": "We organize live concerts, art workshops, and other cultural events."
+  },
+  "gallery": {
+    "title": "Gallery"
+  },
+  "contact": {
+    "title": "Contact",
+    "address": "Address",
+    "addressValue": "Al. Jerozolimskie 42, 00-024 Warsaw",
+    "phone": "Phone",
+    "hours": "Opening hours",
+    "monday": "Monday",
+    "tuesday": "Tuesday",
+    "wednesday": "Wednesday",
+    "thursday": "Thursday",
+    "friday": "Friday",
+    "saturday": "Saturday",
+    "sunday": "Sunday",
+    "hours1": "9:00 AM - 8:00 PM",
+    "hours2": "12:00 PM - 8:00 PM",
+    "visitUs": "Visit us",
+    "social": "Social media"
+  },
+  "footer": {
+    "rights": "© 2024 toMy Kawiarnia Warszawa. All rights reserved.",
+    "foundation": "A project of the Lena Grochowska Foundation"
+  }
+}
